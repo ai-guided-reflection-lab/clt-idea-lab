@@ -24,9 +24,9 @@ It is plain HTML, CSS, and JavaScript — no frameworks and no build step. Open 
 
 ---
 
-## How to edit — no coding experience needed
+## How to edit 
 
-You only need a text editor (even Notepad or TextEdit works, but a free editor like VS Code is nicer). Each page is one file. Find the text you want to change, type over it, and save. To see your change, open the file in a browser. Below are the most common edits, with copy-and-paste examples.
+You only need a text editor. Each page is one file. Find the text you want to change, type over it, and save. To see your change, open the file in a browser. Below are the most common edits, with copy-and-paste examples.
 
 ### Change wording on a page
 Open the page (for example `index.html`), find the sentence, and edit the words between the `>` and `<`. For example, to change the homepage headline, find:
