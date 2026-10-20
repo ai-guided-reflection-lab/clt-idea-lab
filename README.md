@@ -1,4 +1,4 @@
-# CIDEA Lab Website
+# C-IDEA Lab Website
 
 Website for the CIDEA Lab (Charlotte · Intelligent, Data-Driven, Educational, Analytics) in the College of Computing and Informatics at UNC Charlotte.
 
